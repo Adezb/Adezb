@@ -6,6 +6,7 @@ I'm a Frontend Engineer, Web Designer,  I'm passionate about web engineering.
 
 **Here's a quick summary about me**:
 
+- 😊 I am Adebayo Pokanu.
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and ReactJS.
