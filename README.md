@@ -9,7 +9,7 @@ I'm a Frontend Engineer, Web Designer,  I'm passionate about web engineering.
 - 😊 I am Adebayo Pokanu.
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm a diploma graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and ReactJS.
+- 🌱 My stacks includes HTML, CSS, JavaScript, ReactJS, VueJS, NextJS, Typescript, Tailwindcss.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Web Design, Front Engineer, or Web Development (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing temitopeceo@gmail.com.
